@@ -1,0 +1,15 @@
+/Users/tadeuszkiszka/Documents/GitHub/c#/troj/bin/Debug/net6.0/troj
+/Users/tadeuszkiszka/Documents/GitHub/c#/troj/bin/Debug/net6.0/troj.deps.json
+/Users/tadeuszkiszka/Documents/GitHub/c#/troj/bin/Debug/net6.0/troj.runtimeconfig.json
+/Users/tadeuszkiszka/Documents/GitHub/c#/troj/bin/Debug/net6.0/troj.dll
+/Users/tadeuszkiszka/Documents/GitHub/c#/troj/bin/Debug/net6.0/troj.pdb
+/Users/tadeuszkiszka/Documents/GitHub/c#/troj/obj/Debug/net6.0/troj.csproj.AssemblyReference.cache
+/Users/tadeuszkiszka/Documents/GitHub/c#/troj/obj/Debug/net6.0/troj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tadeuszkiszka/Documents/GitHub/c#/troj/obj/Debug/net6.0/troj.AssemblyInfoInputs.cache
+/Users/tadeuszkiszka/Documents/GitHub/c#/troj/obj/Debug/net6.0/troj.AssemblyInfo.cs
+/Users/tadeuszkiszka/Documents/GitHub/c#/troj/obj/Debug/net6.0/troj.csproj.CoreCompileInputs.cache
+/Users/tadeuszkiszka/Documents/GitHub/c#/troj/obj/Debug/net6.0/troj.dll
+/Users/tadeuszkiszka/Documents/GitHub/c#/troj/obj/Debug/net6.0/refint/troj.dll
+/Users/tadeuszkiszka/Documents/GitHub/c#/troj/obj/Debug/net6.0/troj.pdb
+/Users/tadeuszkiszka/Documents/GitHub/c#/troj/obj/Debug/net6.0/troj.genruntimeconfig.cache
+/Users/tadeuszkiszka/Documents/GitHub/c#/troj/obj/Debug/net6.0/ref/troj.dll
